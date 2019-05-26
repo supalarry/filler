@@ -5,4 +5,5 @@ copying the executable to resources/players folder, the game can be launched by 
 "./filler_vm -p1 players/lskrauci.filler -p2 players/carli.filler -v -f maps/map00"
 The filler_vm hands out random pieces to both players who need to place as many as they can
 while blocking the enemy from doing the same.
-![alt text](https://i.imgur.com/HiHXRYb.png)
+
+![alt text](https://i.imgur.com/VsBULjN.png)

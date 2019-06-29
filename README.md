@@ -11,4 +11,5 @@ while blocking the enemy from doing the same. **-p1** denotes player 1 executabl
 ## Battle
 ![](https://media.giphy.com/media/H3GaIBdbDKHUaFdyt1/giphy.gif)
 
-![alt text](https://i.imgur.com/VsBULjN.png)
+![alt text](https://i.imgur.com/3p4lgwf.png)
+![alt text](https://i.imgur.com/NCsvoHv.png)

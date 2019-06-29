@@ -7,6 +7,6 @@ Run **make** in root folder and player executable will be created. **players** f
 ./filler_vm -p1 players/lskrauci.filler -p2 players/carli.filler -v -f maps/map00
 ```
 The filler_vm hands out random pieces to both players (executables) who need to place as many as they can
-while blocking the enemy from doing the same.
+while blocking the enemy from doing the same. **-p1** denotes player 1 executable and **-p2** denotes player 2 executable.
 
 ![alt text](https://i.imgur.com/VsBULjN.png)

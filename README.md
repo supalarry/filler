@@ -16,6 +16,7 @@ In image above current state of the board is given, and player also receives a P
 ![alt text](https://i.imgur.com/NCsvoHv.png)
 
 Here it can be seen that the coordinates were found to be 16 vertically and 3 horizontally.
+
 Next gif illustrates full game
 
 ![](https://media.giphy.com/media/H3GaIBdbDKHUaFdyt1/giphy.gif)

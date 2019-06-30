@@ -17,7 +17,7 @@ In image above current state of the board is given, and player also receives a P
 
 Here it can be seen that the coordinates were found to be 16 vertically and 3 horizontally.
 
-Next gif illustrates full game. The player who can successfully block or trap enemy has the advantage to continue placing more pieces until no more piece can be placed.
+Next gif illustrates full game. The player who can successfully block or trap enemy has the advantage to continue placing more pieces until no more piece can be placed. Player who places more pieces wins with having the highest score.
 
 ![](https://media.giphy.com/media/H3GaIBdbDKHUaFdyt1/giphy.gif)
 

@@ -8,6 +8,7 @@ Run **make** in root folder and player executable will be created. **players** f
 ```
 The filler_vm hands out random pieces to both players (executables) who need to place as many as they can
 while blocking the enemy from doing the same. **-p1** denotes player 1 executable and **-p2** denotes player 2 executable.
+maps folder consists of small map (map00), medium size map (map01) and big map (map02)
 ## Battle
 ![alt text](https://i.imgur.com/3p4lgwf.png)
 

@@ -26,8 +26,6 @@ while blocking the enemy from doing the same. **-p1** denotes player 1 executabl
 They are going to battle in map00.
 
 ## Battle
-![alt text](https://i.imgur.com/3p4lgwf.png)
-
 In the example below a board is given, and it is the move of player 'X' now. Player 'X' receives piece
 below. Next, player must specifiy coordinates where to put the piece.
 
